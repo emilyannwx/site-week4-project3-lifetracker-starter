@@ -1,15 +1,6 @@
 # Project #3: LifeTracker Application
 
 
-
-
-
-LifeTracker Demo:
-
-[![Watch the video](https://www.youtube.com/watch?v=RKPQ_8P2rKg)](https://youtu.be/RKPQ_8P2rKg)
-
-backup:https://www.youtube.com/watch?v=RKPQ_8P2rKg
-
 ## Overview
 
 > Data is the new oil - Clive Humbly
